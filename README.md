@@ -5,7 +5,7 @@ This repository contains interesting DSA problems solved using JAVA programming 
 Today, 17-09-2026, I am starting my DSA journey from here, and I can't wait to take this to the next level 🚀                                                 
 
 This repository contains topic-wise problem solving, because I believe that learning and practicing topic by topic matters a lot when it comes to 
-developing good coding skills, building strong logical thinking, and gaining a better understanding of Data Structures and Algorithms.
+developing good coding skills, building strong logical thinking, and gaining a better understanding of Data Structures & Algorithms.
 
 My goal is simple:
 
