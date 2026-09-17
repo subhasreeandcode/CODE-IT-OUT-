@@ -1,27 +1,19 @@
 /* Koko Eating Bananas
 
 LeetCode: 875  
-Difficulty: Medium  
 Topic: Binary Search
 
 Approach :
-
 We use binary search to find the minimum eating speed.
-
 The possible speed ranges from 1 to the maximum pile size.
-
 For each speed, we calculate how many hours Koko would need to finish all the bananas.
-
 If the required hours are less than or equal to `h`, we try a smaller speed.
-
 Otherwise, we increase the speed.
 
-## Complexity
+Complexity:
 
 Time: O(n log m)
-
 Space: O(1)
-
 Where:
     n = number of banana piles
     m = maximum pile size */
