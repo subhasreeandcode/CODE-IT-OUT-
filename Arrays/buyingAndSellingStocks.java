@@ -23,9 +23,9 @@ class Solution
 
         for(int price : prices)
         {
-            costPrice = Math.min(costPrice, price);
-            int profit = price - costPrice;
-            maxProfit = Math.max(profit, maxProfit);
+            costPrice = Math.min(costPrice, price); // lowest price to buy the stock
+            int profit = price - costPrice;  // current profit 
+            maxProfit = Math.max(profit, maxProfit); // maximum profit
         }
         return maxProfit;
     }
