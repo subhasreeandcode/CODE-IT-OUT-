@@ -15,7 +15,7 @@ class main
 }
 
 class Solution
-{
+{""
     public static int mySqrt(int x)
     {
         if(x < 2)
